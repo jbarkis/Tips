@@ -5,7 +5,10 @@ For tip calculator project. The app is called "TC". This is a tip calculator app
 
 Time Spent: 3 hours total
 
-Required: Clicking on text field pulls up keyboard, which is a decimal pad
-Required: Clicking anywhere on screen removes keyboard
-Required: Users can select different percentage options (by using segmented controls) and see the total calculated automatically
-Required: Gif walkthrough of the app
+* [x] Required: Clicking on text field pulls up keyboard, which is a decimal pad
+* [x] Required: Clicking anywhere on screen removes keyboard
+* [x] Required: Users can select different percentage options (by using segmented controls) and see the total calculated automatically
+* * [x] Required: Gif walkthrough of the app
+
+
+![WalkThrough](tc_anim.gif)
