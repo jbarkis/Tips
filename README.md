@@ -1,9 +1,7 @@
 Tips
 ====
 
-For tip calculator project. The app is called "TC".
-
-This is a tip calculator app for iPhones running iOS7 or above. The user can calculate the total of a bill based on the bill's' amount plus a tip of either 18%, 20%, or 22%.
+For tip calculator project. The app is called "TC". This is a tip calculator app for iPhones running iOS7 or above. The user can calculate the total of a bill based on the bill's' amount plus a tip of either 18%, 20%, or 22%.
 
 Time Spent: 3 hours total
 
